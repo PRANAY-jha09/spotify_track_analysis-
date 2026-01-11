@@ -46,7 +46,7 @@ Spotify aims to boost user engagement via playlists, recommendations, and artist
 
 - SQL (Aggregations, Joins, Pivots)
 - Python (Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn)
-- Power BI (Scatterplots, Heatmaps, DAX)
+- Power BI (Scatterplots, Histogram, DAX)
 - GitHub
 
 ---
